@@ -8,4 +8,3 @@ use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
 
-var_dump($_POST);
